@@ -62,6 +62,7 @@
   grid-area: 2 / 2 / 5 / 5;
   background-color: rgba(46, 46, 46, 100);
   color: white;
+  display: flex ;
 }
 
 .footer {
@@ -82,3 +83,35 @@
   display: flex;
 }
 
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 34.8vh;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.card_img {
+  width: 34.8vh;
+}
+
+.price {
+  color: grey;
+  font-size: 22px;
+}
+
+.card button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+.card button:hover {
+  opacity: 0.7;
+}
