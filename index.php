@@ -18,6 +18,7 @@
   <link rel="icon" href="/favicon.ico" sizes="any">
   <link rel="icon" href="/icon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="icon.png">
+  <title>Webshop</title>
 
   <meta name="theme-color" content="#fafafa">
 </head>
@@ -27,10 +28,13 @@
   <div class="header">
       <img id="logo" src="assets/img/logoWebshop.JPEG" alt="/">
   </div>
-  <div class="header_2">header-2</div>
+  <div class="header_2">
+    <p><a href="module-3-1-eindopdracht-DalyshaY/index.php" class="header2_tekst">Products</a></p>
+    <p><a href="module-3-1-eindopdracht-DalyshaY/contactpagina.php" class="header2_tekst">Contact</a></p>
+  </div>
   <div class="sidebar-1">
     <div class="sidebar_left">
-      <a id="sidebar_link" href="url">link text</a><br>
+      <a href="" id="sidebar_link" href="url">link text</a><br>
       <a id="sidebar_link" href="url">link text</a><br>
       <a id="sidebar_link" href="url">link text</a><br>
     </div>
@@ -135,14 +139,56 @@
       <p>Some text about the jeans..</p>
       <p><button>Add to cart</button></p>
     </div>
-  </div>
+    <div class="card">
+      <img class="card_img" src="assets/img/Digital Marketing Freebie Guide kopie.png" alt="/">
+      <h1>DFY Digital Product Freebie Guide</h1>
+      <p class="price"></p>
+      <p>Some text about the jeans..</p>
+      <p><button>Add to cart</button></p>
+    </div>
+    <div class="card">
+      <img class="card_img" src="assets/img/Digital Marketing Freebie Guide kopie.png" alt="/">
+      <h1>DFY Digital Product Freebie Guide</h1>
+      <p class="price"></p>
+      <p>Some text about the jeans..</p>
+      <p><button>Add to cart</button></p>
+    </div>
+    <div class="card">
+      <img class="card_img" src="assets/img/Digital Marketing Freebie Guide kopie.png" alt="/">
+      <h1>DFY Digital Product Freebie Guide</h1>
+      <p class="price"></p>
+      <p>Some text about the jeans..</p>
+      <p><button>Add to cart</button></p>
+    </div>
+    <div class="card">
+      <img class="card_img" src="assets/img/Digital Marketing Freebie Guide kopie.png" alt="/">
+      <h1>DFY Digital Product Freebie Guide</h1>
+      <p class="price"></p>
+      <p>Some text about the jeans..</p>
+      <p><button>Add to cart</button></p>
+    </div>
+    <div class="card">
+      <img class="card_img" src="assets/img/Digital Marketing Freebie Guide kopie.png" alt="/">
+      <h1>DFY Digital Product Freebie Guide</h1>
+      <p class="price"></p>
+      <p>Some text about the jeans..</p>
+      <p><button>Add to cart</button></p>
+    </div>
+    <div class="card">
+      <img class="card_img" src="assets/img/Digital Marketing Freebie Guide kopie.png" alt="/">
+      <h1>DFY Digital Product Freebie Guide</h1>
+      <p class="price"></p>
+      <p>Some text about the jeans..</p>
+      <p><button>Add to cart</button></p>
+    </div>
+    </div>
   <div class="footer">
     <div id="copyright">
       <p>© 2025 All rights reserved
       </p>
     </div>
   </div>
-</div>
+
   
 
 <script src="assets/js/app.js"></script>
