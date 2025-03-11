@@ -71,8 +71,8 @@
   background: #ffffff;
   outline: none;
   opacity: 0.7;
-  -webkit-transition: .2s;
-  transition: opacity .2s;
+  -webkit-transition: 0.2s;
+  transition: opacity 0.2s;
 }
 
 .slider:hover {
@@ -86,7 +86,6 @@
   height: 25px;
   background: #dc7bad;
   cursor: pointer;
-
 }
 
 .slider::-moz-range-thumb {
@@ -120,19 +119,34 @@
 
 .contact_area {
   background-color: #000;
-  color: white;  
-  padding-left: 2vh;
-  border-radius: 2vh;
+  color: white;
   padding: 5vh;
+  border-radius: 2vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .main {
- grid-area: main;
- justify-content: center;
- align-items: center;
- width: 100%;
- padding-left: 10vh;
- padding-right: 10vh;
- padding-top: 2vh;
+  grid-area: main;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding-left: 10vh;
+  padding-right: 10vh;
+  padding-top: 2vh;
 }
 
+.contact_area form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.contact_area .input {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}

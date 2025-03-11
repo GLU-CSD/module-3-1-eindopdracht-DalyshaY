@@ -47,7 +47,7 @@
     <div class="sidebar-2">sidebar-2</div>
     <div class="main">
       <div class="card">
-        <img class="card_img" src="assets/img/Digital_Marketing Freebie_Guide_kopie.png" alt="/">
+        <img class="card_img" src="assets/img/Digital_Marketing_Freebie_Guide_kopie.png" alt="/">
         <h1>DFY Digital Product Freebie Guide</h1>
         <p class="price">$0</p>
         <p>The basics of digital marketing.</p>
@@ -125,75 +125,76 @@
         <p><button>Add to cart</button></p>
       </div>
       <div class="card">
-        <img class="card_img" src="assets/img/Digital_Marketing Freebie_Guide_kopie.png" alt="/">
+        <img class="card_img" src="assets/img/Digital_Marketing_Freebie_Guide_kopie.png" alt="/">
         <h1>DFY Digital Product Freebie Guide</h1>
         <p class="price">$0</p>
         <p>Some text about the jeans..</p>
         <p><button>Add to cart</button></p>
       </div>
       <div class="card">
-        <img class="card_img" src="assets/img/Digital_Marketing Freebie_Guide_kopie.png" alt="/">
+        <img class="card_img" src="assets/img/Digital_Marketing_Freebie_Guide_kopie.png" alt="/">
         <h1>DFY Digital Product Freebie Guide</h1>
         <p class="price">$0</p>
         <p>Some text about the jeans..</p>
         <p><button>Add to cart</button></p>
       </div>
       <div class="card">
-        <img class="card_img" src="assets/img/Digital_Marketing Freebie_Guide_kopie.png" alt="/">
+        <img class="card_img" src="assets/img/Digital_Marketing_Freebie_Guide_kopie.png" alt="/">
         <h1>DFY Digital Product Freebie Guide</h1>
         <p class="price">$0</p>
         <p>Some text about the jeans..</p>
         <p><button>Add to cart</button></p>
       </div>
       <div class="card">
-        <img class="card_img" src="assets/img/Digital_Marketing Freebie_Guide_kopie.png" alt="/">
-        <h1>DFY Digital Product Freebie Guide</h1>
-        <<p class="price">$0</p>
-        <p>Some text about the jeans..</p>
-        <p><button>Add to cart</button></p>
-      </div>
-      <div class="card">
-        <img class="card_img" src="assets/img/Digital_Marketing Freebie_Guide_kopie.png" alt="/">
+        <img class="card_img" src="assets/img/Digital_Marketing_Freebie_Guide_kopie.png" alt="/">
         <h1>DFY Digital Product Freebie Guide</h1>
         <p class="price">$0</p>
         <p>Some text about the jeans..</p>
         <p><button>Add to cart</button></p>
       </div>
       <div class="card">
-        <img class="card_img" src="assets/img/Digital_Marketing Freebie_Guide_kopie.png" alt="/">
+        <img class="card_img" src="assets/img/Digital_Marketing_Freebie_Guide_kopie.png" alt="/">
+        <h1>DFY Digital Product Freebie Guide</h1>
+        <p class="price">$0</p>
+        <p>Some text about the jeans..</p>
+        <p><button>Add to cart</button></p>
+      </div>
+      <div class="card">
+        <img class="card_img" src="assets/img/Digital_Marketing_Freebie_Guide_kopie.png" alt="/">
         <h1>DFY Digital Product Freebie Guide</h1>
         <p class="price"></p>
         <p>Some text about the jeans..</p>
         <p><button>Add to cart</button></p>
       </div>
       <div class="card">
-        <img class="card_img" src="assets/img/Digital_Marketing Freebie_Guide_kopie.png" alt="/">
+        <img class="card_img" src="assets/img/Digital_Marketing_Freebie_Guide_kopie.png" alt="/">
         <h1>DFY Digital Product Freebie Guide</h1>
         <p class="price">$0</p>
         <p>Some text about the jeans..</p>
         <p><button>Add to cart</button></p>
       </div>
       <div class="card">
-        <img class="card_img" src="assets/img/Digital_Marketing Freebie_Guide_kopie.png" alt="/">
+        <img class="card_img" src="assets/img/Digital_Marketing_Freebie_Guide_kopie.png" alt="/">
         <h1>DFY Digital Product Freebie Guide</h1>
         <p class="price">$0</p>
         <p>Some text about the jeans..</p>
         <p><button>Add to cart</button></p>
       </div>
       <div class="card">
-        <img class="card_img" src="assets/img/Digital_Marketing Freebie_Guide_kopie.png" alt="/">
+        <img class="card_img" src="assets/img/Digital_Marketing_Freebie_Guide_kopie.png" alt="/">
         <h1>DFY Digital Product Freebie Guide</h1>
         <p class="price">$0</p>
         <p>Some text about the jeans..</p>
         <p><button>Add to cart</button></p>
       </div>
-      </div>
     </div>
-    <div class="footer">
-      <div id="copyright">
-        <p>© 2025 All rights reserved
-        </p>
-      </div>
+  </div>
+  <div class="footer">
+    <div id="copyright">
+      <p>© 2025 All rights reserved
+      </p>
     </div>
+  </div>
 </body>
+
 </html>
